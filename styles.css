@@ -1,0 +1,57 @@
+body {
+    margin-left: 25px;
+    margin-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+    }
+
+header {
+    background-color: black;
+    padding: 10px;
+    }
+
+h2.firsth2Tag {
+    color: lightskyblue;
+    font-family: Alegreya SC;
+    text-transform: uppercase;
+    padding-left: 10px;
+}
+
+p.firstpTag {
+    color: white;
+    padding-left: 30px;
+}
+
+div.titlePart {
+    background-color: gray;
+    padding:10px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+div.titlePart p {
+    padding-left: 15px;
+}
+
+h2.Locations {
+    padding-left: 3px;
+}
+
+h2.Products {
+    padding-left: 3px;
+}
+
+tr.border-bottom th {
+    padding-bottom: 5px;
+    border-bottom:  1pt solid blue;
+}
+
+tr.spacing td {
+    padding: 5px;
+}
+
+
+
+
+
+
